@@ -1,0 +1,13 @@
+Ejercicio Davi's Staircase
+https://colab.research.google.com/drive/11JwJTaiTtNTQQOmT4hihzyZpcnXo7Zba?usp=sharing
+
+Ejercicio DP: Coin Change
+https://colab.research.google.com/drive/1UObeyZr54gnILMiOEYgLRveFPYqMx8wj?usp=sharing
+
+El tiempo empleado en el laboratorio puede dividirse en 2 partes, la parte haciendo el algoritmo y documento técnico y por otro lado, la parte de planteamiento de ejercicios, para lo primero gasté 2 horas, mientras que para plantear los ejercicios, gasté alrededor de 2 días para plantear el ejercicio 2.
+
+El laboratorio está completo.
+
+El mayor logro fue haber encontrado la recurrencia para el punto 2, ya que fue una manera completamente nueva.
+
+El mayor problema técnico fue la recurrencia del punto 2, ya que aunque se me ocurrían muchas maneras de realizar el ejercicio, ninguna funcionaba del todo.

@@ -1,0 +1,26 @@
+"Down to zero II"
+https://colab.research.google.com/drive/1om1iX-6hZthy_h2rPLzg8EWT1vsETEjc?usp=sharing
+
+"Queries with fixed length"
+https://colab.research.google.com/drive/1SKlEnR2BFzDUqG9248oAEOyWsG2Nkplt?usp=sharing
+
+"Jess and Cookies"
+https://colab.research.google.com/drive/1zhZ5X__avFteKSWMWBcV4CFV-fcp6oXv?usp=sharing
+
+"Minimum average waiting time"
+
+"Hash: Ransom note"
+https://colab.research.google.com/drive/1x81WPHE2o2mdCLmLdgtoEejQ7tUK3a6b?usp=sharing
+
+"Merge the tools"
+https://colab.research.google.com/drive/1om1iX-6hZthy_h2rPLzg8EWT1vsETEjc?usp=sharing
+
+
+¿Cual fue el tiempo invertido en el laboratorio?
+El tiempo fueron 8 horas
+¿Cual es el estado actual del laboratorio?¿Por qué?
+El laboratorio se encuentra incompleto ya que falta el punto de minimum average waiting time, ya que no entiendo la lógica para tomar los tiempos de espera
+¿Cual considera que fue el mayor logro?¿Por qué?
+El mayor logro fue poder definir los tripos abstractos de datos, ya que algunos no erán del todo intuitivos
+¿Cual considera que fue el mayor problema técnico?¿Que hizo para resolverlo?
+Pensar la forma de resolver los ejercicios mediante una estructura de datos, para resolverlo, primero hice el ejercicio sin estructura de datos y después la adapté.

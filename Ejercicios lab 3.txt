@@ -1,0 +1,13 @@
+Davi´s Staircase
+https://colab.research.google.com/drive/11JwJTaiTtNTQQOmT4hihzyZpcnXo7Zba?usp=sharing
+
+Power of sum
+https://colab.research.google.com/drive/1knygpQcNA8NtzQOj-nUuqz88ZUuLUY27?usp=sharing
+
+Recursirve Digit Sum
+https://colab.research.google.com/drive/1OM39kyTCFzhquALXlOOYFj9MTuEZVi52?usp=sharing
+
+El tiempo empleado en el laboratorio fue de 5 horas.
+El estado actual del laboratorio es completo
+El mayor logro fué encontrar la recurrencia para cada ejercicio.
+El mayor problema técnico fué el segundo punto, ya que la recurrencia no era muy clara y fué el ejercicio que más se dificultó.

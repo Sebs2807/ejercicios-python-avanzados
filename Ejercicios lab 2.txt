@@ -1,0 +1,13 @@
+Ejercicio Jim and the Orders
+https://colab.research.google.com/drive/1m5HRpa6QbTOeBqOEaICOo7jA8LYHfMF5?usp=sharing
+
+Ejercicio Minimum Absolute Difference in an Array
+https://colab.research.google.com/drive/1lifvyhb2Y8PYux0HTzGVVC1I7OzPiB4x?usp=sharing
+
+Ejercicio Luck Balance
+https://colab.research.google.com/drive/10Gcx1Wdi8DFToEKKnAbfyhahk5xQptCd?usp=sharing
+
+El tiempo total invertido en el laboratio aproximadamente fueron 6 horas.
+El estado del laboratorio es completado, pero tengo dudas con los invariantes de los documentos técnicos.
+Mi mayor logró considero que fué haber empezado a entender como saber la complejidad de un algoritmo.
+El mayor inconveniente fué en el último ejercicio para ir contando la cantidad de competencias importantes perdidas y eliminar las que menos valor tuvieran, para solucionarlo tuve que hacer 2 ciclos nuevos, 1 para ordenar por orden de importancia y así eliminar los menos importantes y el otro veía cuando un concurso era importante y revisaba cuantos se habían perdido.
