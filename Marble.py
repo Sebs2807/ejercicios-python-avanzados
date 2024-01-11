@@ -1,0 +1,32 @@
+def marble():                                                                   #Complejidad O(1)
+    cont = 1                                                                    #Complejidad O(1)
+    n, q = [int(x) for x in input().split()]                                    #Complejidad O(2)
+    while n!= 0 and q != 0:                                                     #Complejidad O(n)
+        print(f"CASE# {cont}:")                                                 #Complejidad O(1) 
+        lista = []                                                              #Complejidad O(1)
+        for _ in range(n):                                                      #Complejidad O(n)
+            lista.append(int(input()))                                          #Complejidad O(1)
+        lista.sort()                                                            #Complejidad O(n log n)
+        for _ in range(q):                                                      #Complejidad O(n)
+            buscar = int(input())                                               #Complejidad O(1)
+            pos = busqueda_binaria(lista,buscar)                      #Complejidad O(q Log n) porque llama a la busqueda binaria q veces 
+            if pos == -1:                                                       #Complejidad O(1)
+                print(f"{buscar} not found")                                    #Complejidad O(1)
+            else:                                                               #Complejidad O(1)
+                print(f"{buscar} found at {pos + 1}")                           #Complejidad O(1)
+
+        cont += 1                                                               #Complejidad O(1)
+        n, q = [int(x) for x in input().split()]                                #Complejidad O(n)
+
+def busqueda_binaria(arr, x):                                         #Complejidad O(Log n) porque es el algoritmo de busqueda binaria
+    low, high = 0, len(arr)                                                     #Complejidad O(1)
+    while low < high:                                                           #Complejidad O(n)
+        mid = low + ((high - low) // 2)                                         #Complejidad O(1)
+        if arr[mid] == x:                                                       #Complejidad O(1)
+            high = mid                                                          #Complejidad O(1)
+        elif arr[mid] < x:                                                      #Complejidad O(1)
+            low = mid + 1                                                       #Complejidad O(1)
+        else:                                                                   #Complejidad O(1)
+            high = mid                                                          #Complejidad O(1)
+    return low if low < len(arr) and arr[low] == x else -1                      #Complejidad O(1)
+marble()                                                              #Complejidad O(n log n) por el algoritmo de ordenamiento
